@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # uas_pmobile
 
 A new Flutter project.
@@ -18,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # NEWS-APP-API
 >>>>>>> db646d3af2b8fef528703b9d9b3608d688dbaadb
+=======
+# IDN-NEWS-API
+Aplikasi Berita terkini menggunakan API
+>>>>>>> de6939f033ff3afc7cb4085f183f536d73f6f5a3
